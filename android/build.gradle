@@ -52,5 +52,5 @@ repositories {
 
 dependencies {
   implementation 'com.facebook.react:react-native:+'
-  implementation 'com.uxcam:uxcam:2.5.8@aar'
+  implementation 'com.uxcam:uxcam:3.0.3@aar'
 }
